@@ -1,5 +1,3 @@
 # Deep_Learning_2
 
-
-Deep_Learning and opencv  \
-cv2.dnn.xxx \
+All the files in this track are private
